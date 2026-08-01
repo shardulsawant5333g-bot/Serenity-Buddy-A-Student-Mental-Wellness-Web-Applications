@@ -1,0 +1,2 @@
+# Serenity-Buddy-A-Student-Mental-Wellness-Web-Applications
+Serenity Buddy is a student-focused mental wellness web application developed for DYPCET Kolhapur. It is designed to help users improve their emotional well-being by providing a simple, interactive, and supportive digital environment. The website features  modern glassmorphism interface with responsive navigation and  personalized login experience.
